@@ -16,7 +16,7 @@ I'm an enthusiastic Undergraduate Software Engineer from Sri Lanka with a passio
 
 🔹 Strong interest in Backend Development and Database Engineering
 🔹 Experience with Enterprise Java and Web Application Development
-🔹 Currently building Mobile Applications using React Native
+🔹 Currently building Mobile Applications using Adnroid
 🔹 Passionate about Software Architecture and Design Patterns
 🔹 Enjoy learning new technologies and tackling challenging problems
 
@@ -70,10 +70,12 @@ A comprehensive tea estate management system designed to modernize estate operat
 ### Mobile Development
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Android]
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![FireBase]
 
 ### Tools & Technologies
 
