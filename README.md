@@ -104,15 +104,6 @@ A comprehensive tea estate management system designed to modernize estate operat
 * Grow as a Software Architect
 
 ---
-
-## 🌍 Languages
-
-* 🇱🇰 Sinhala
-* 🇬🇧 English
-* 🇳🇴 Learning Norwegian
-
----
-
 ## 💡 Interests
 
 * Backend Development
@@ -122,13 +113,6 @@ A comprehensive tea estate management system designed to modernize estate operat
 * Enterprise Systems
 * Software Architecture
 * Open Source Development
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/MudithaGayanath
-
 ---
 
 <div align="center">
